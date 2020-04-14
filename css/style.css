@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+nav ul a{
+    text-decoration: none;
+    color: darkblue;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    margin:5px 0px  ;
+}
+article section img{
+    width: 30%;
+}
+section a{
+    text-decoration: none;
+    color: darkblue;
+}
+footer p {
+    text-align: center;
+    color: black;
+}
+nav a:hover{
+    color: white;
+}
+section a:hover{
+    color: turquoise;
+}
