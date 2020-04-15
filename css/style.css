@@ -1,7 +1,10 @@
 body{
-    background-color: gray;
+    /* background-color: gray; */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
+    background-color:
+    darkgray ;
+    
 }
 nav ul a{
     text-decoration: none;
