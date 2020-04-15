@@ -20,7 +20,8 @@ return value;
 
 }
 document.write('<h2>'+ git() + '</h2>');
-console.log(git());
-
-
-            
+var addpic=prompt("choose any number to ad new pic");
+for (let i = 0; i < addpic; i++) {
+    document.write('<<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/chocolate-11-84551.png">');
+    
+}
